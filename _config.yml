@@ -1,0 +1,22 @@
+title: Games are the Mother of Innovation
+author: Nina Kilbride
+email: 
+description: >-
+  1 of 1 dollection of art inspired by public domain masterpieces
+
+social:
+  twitter: 
+  facebook: 
+  instagram: 
+  github: 
+  linkedin:
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+collections:
+  images:
+    output: true
